@@ -1,3 +1,6 @@
+# why fork this repo?
+I think I want to study some ideas from here!
+
 # Google+ user feed
 
 Get Google+ user posts as an RSS feed (to export it to Twitter, Facebook, ...)
